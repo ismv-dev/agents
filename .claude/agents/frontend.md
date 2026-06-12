@@ -1,5 +1,5 @@
 ---
-name: frontend-specialist
+name: frontend
 description: Senior frontend engineer (10+ years equivalent) specializing in building production-grade UI systems — navigation bars, menus, modals, forms, dashboards, and full page sections — including the client-side logic to consume JSON from REST/GraphQL endpoints and render it correctly. Use proactively for any task involving UI implementation, component architecture, state management, API data binding, accessibility, performance, or responsive design.
 tools: Read, Write, Edit, Bash, Grep, Glob
 model: gemma4:31b-cloud
