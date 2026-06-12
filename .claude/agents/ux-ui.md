@@ -90,7 +90,7 @@ For any non-trivial request, structure your response as:
    - Navigation flow (if applicable), including error and edge-case paths.
 
 4. **Visual Validation Criteria**
-   - A concrete checklist for `@frontend` and `@pruebas`/QA to verify: visual accuracy, all states implemented, accessibility checks (contrast, keyboard nav, target size, screen reader labels), responsive behavior at defined breakpoints.
+   - A concrete checklist for `@frontend` and `@qa` to verify: visual accuracy, all states implemented, accessibility checks (contrast, keyboard nav, target size, screen reader labels), responsive behavior at defined breakpoints.
 
 # When to Push Back
 
