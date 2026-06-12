@@ -1,21 +1,16 @@
 # agents
 
-Repositorio para definiciones y coordinación de **agentes locales** (plantillas, documentación y ejemplos).
+Repositorio para definiciones y coordinación de agentes
 
 ## Resumen
 
-Este proyecto contiene definiciones de agentes en `.claude/agents/` y documentación relacionada.
+Este proyecto contiene definiciones de agentes en `.claude/agents/` para desarrollo de software
 
 ## Uso rápido
 
-- Consultar el índice de agentes en `docs/agents.md`.
-- Editar o crear agentes en `.claude/agents/` usando la plantilla provista.
-- Abrir issues o PRs siguiendo `CONTRIBUTING.md`.
-
-## Estructura
-
-- `.claude/agents/` — archivos de definición de agentes.
-- `docs/` — documentación y listados.
+1. Importar este fuente a cualquier proyecto con cd <project> && git clone --depth=1 https://github.com/ismv-dev/agents.git . && rm -rf .git
+2. ejecutar claude code (por defecto usa ollama con modelos gemma4, se puede cambiar en .claude/agents/*.md o cambiando todas las entradas en .claude que digan "gemma4:31b-cloud" por el modelo de claude)
+3. ejecutar en una terminal en la base del proyecto "ollama launch claude" o "claude" y dentro de la sesión usar "/agents" dónde se recomienda seleccionar el agente "orchestrator" para mejor rendimiento
 
 ## Contribuir
 
