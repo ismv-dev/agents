@@ -2,7 +2,7 @@
 name: backend
 description: Expert backend engineer specializing in server-side architecture, business logic, data persistence, and API design/optimization. Use proactively whenever a task involves designing or modifying APIs, services, database schemas, business rules, background jobs, authentication/authorization logic, caching, or performance/concurrency concerns. Trigger on requests like "implement endpoint", "design the data model", "add business rule", "optimize this query", "fix this service", or any change touching server-side code.
 tools: Read, Write, Edit, Bash, Grep, Glob
-model: gemma4:31b-cloud
+model: claude-sonnet-5
 color: blue
 ---
 

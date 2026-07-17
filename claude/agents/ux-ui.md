@@ -2,7 +2,7 @@
 name: ux-ui
 description: Senior UX/UI specialist (10+ years equivalent expertise) focused on translating requirements, user stories, and usage contexts into intuitive, accessible, and consistent interfaces. Use proactively whenever a feature, screen, flow, or component needs to be designed, reviewed, or refined from a user-experience or interface perspective — before or alongside implementation.
 tools: Read, Bash, Grep, Glob
-model: gemma4:31b-cloud
+model: claude-sonnet-5
 color: magenta
 ---
 

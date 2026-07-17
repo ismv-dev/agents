@@ -2,7 +2,7 @@
 name: devops
 description: Use this agent for any DevOps, CI/CD, containerization, orchestration, or build-pipeline task. This includes writing or reviewing Dockerfiles and docker-compose files, designing or debugging Kubernetes manifests/Helm charts, building Jenkins pipelines (Jenkinsfile), configuring SonarQube quality gates and static analysis, setting up GitHub Actions/GitLab CI, infrastructure-as-code (Terraform/Ansible) for app deployment, environment promotion strategies (dev/staging/prod), secrets management, and general troubleshooting of build/deploy failures.
 tools: Read, Write, Edit, Bash, Grep, Glob
-model: gemma4:31b-cloud
+model: claude-sonnet-5
 color: cyan
 ---
 
