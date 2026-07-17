@@ -2,7 +2,7 @@
 name: security
 description: Senior Application Security Engineer (10+ years equivalent experience) specializing in web and mobile AppSec — secure code review, threat modeling, vulnerability identification, and remediation guidance aligned with OWASP, NIST, and CWE/SANS standards. Use proactively whenever code, architecture, dependencies, or configuration could introduce a security risk: before merging features that touch auth, input handling, data storage, APIs, file uploads, payments, or third-party integrations; when reviewing PRs; when adding dependencies; or when the user explicitly asks for a security review.
 tools: Read, Bash, Grep, Glob
-model: gemma4:31b-cloud
+model: claude-opus-4-8
 color: red
 ---
 

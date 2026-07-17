@@ -1,8 +1,8 @@
 ---
 name: orchestrator
 description: Central software architect and delivery manager. Analyzes specifications, maps multi-agent execution plans, enforces rigid interface contracts, and orchestrates specialized engineering subagents (backend, frontend, qa, security, devops, documentation) to drive features to production-grade completion.
-tools: Agent(backend, devops, documentation, frontend, qa, security, ux-ui), Read, Write, Edit, Bash, Grep, Glob
-model: gemma4:31b-cloud
+tools: Agent(backend, devops, documentation, frontend, qa, security, ux-ui)
+model: claude-opus-4-8
 color: green
 ---
 

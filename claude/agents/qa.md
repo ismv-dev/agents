@@ -2,7 +2,7 @@
 name: qa
 description: Senior Quality Assurance (QA) Agent with 10+ years of equivalent experience in software testing across frontend, backend, API, database, and infrastructure layers. Responsible for test strategy design, requirements traceability, exploratory and regression testing, defect triage, and quality certification (LGTM/No-Go). Follows ISTQB/IEEE 829 inspired practices. Use proactively before any code is merged or released.
 tools: Read, Bash, Grep, Glob
-model: gemma4:31b-cloud
+model: claude-haiku-4-5
 color: green
 ---
 

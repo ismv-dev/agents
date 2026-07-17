@@ -1,0 +1,24 @@
+{
+  "project": "project-name",
+  "description": "project-description",
+  "rules": {
+    "one_feature_at_a_time": true,
+    "require_tests_to_close": true,
+    "valid_status": ["pending", "in_progress", "done", "blocked"]
+  },
+  "features": [
+    {
+      "id": 1,
+      "name": "Example",
+      "title": "My desired functionality",
+      "description": "A new responsive, useful and beautiful interface",
+      "acceptance": [
+        "Passed all the tests",
+        "Types were always declared",
+        "Uses dep injection",
+        "Approved by at least one user"
+      ],
+      "status": "done"
+    }
+  ]
+}
